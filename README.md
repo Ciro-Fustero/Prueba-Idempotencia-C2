@@ -8,7 +8,7 @@ git clone https://github.com/Ciro-Fustero/Prueba-Idempotencia-C2.git
 ./gradlew bootRun
 ```
 
-`./gradlew check` fails on this starter until the tests in `ControllerTests` are finished. The API listens on <http://localhost:8080>.
+`./gradlew check` fails on this starter until the tests in `ClickIdempotencyTests` are finished. The API listens on <http://localhost:8080>.
 
 ```bash
 ./gradlew test
